@@ -1,4 +1,2 @@
-Hi, I’m @colalexjacob
-I’m interested in learning programming
-I am a hobby programmer
-I’m currently learning JavaScript
+Hi, I’m @colalexjacob.
+I am interested in learning programming and I am a hobby programmer currently learning JavaScript
